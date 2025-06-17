@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@unocss/reset": "^66.2.0"
+  }
+}
