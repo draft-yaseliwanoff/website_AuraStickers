@@ -1,0 +1,40 @@
+:root {
+  --text-color-black: #07060B;
+  --text-color-white: #FFFFFF;
+  --text-color-aqua: #46F4DB;
+  --text-color-gray-light: #95959D;
+  --text-color-red: #D13130;
+  --text-color-gray-dark: #07060B;
+
+  --background-color-white: #FFFFFF;
+  --background-color-black: #07060B;
+  --background-color-red: #D13130;
+  --background-color-aqua: #46F4DB;
+  --background-color-gray-dark: #37373E;
+  --background-color-gray-light: #EDEDF2;
+
+  --font-size-h1: 70px;
+  --font-size-h2: 60px;
+  --font-size-h3: 20px;
+  --font-size-description: 20px;
+  --font-size-header-and-footer: 20px;
+  --font-size-button-low: 16px;
+  --font-size-button-default: 20px;
+
+  --default-line-height: 140%;
+
+  --button-padding-low: 17px 31px;
+  --button-padding-default: 22px 54px;
+  --button-padding-large: 25px 74px;
+
+  --block-padding-low: 16px;
+  --block-padding-default: 20px;
+
+  --font-name-title: "RussoOne";
+  --font-name-text: "Montserrat";
+
+  --border-radius-default: 40px;
+  --border-radius-large: 999px;
+
+  --animation: .2s linear;
+}
