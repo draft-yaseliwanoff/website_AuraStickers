@@ -1,0 +1,129 @@
+@font-face {
+  font-family: "Muller";
+  font-weight: 300;
+  font-style: normal;
+  src:
+    url("./muller/ttf/Muller-Trial-Light.ttf") format("truetype"),
+    url("./muller/woff/Muller-Trial-Light.woff") format("woff"),
+    url("./muller/woff2/Muller-Trial-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Muller";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    url("./muller/ttf/Muller-Trial-Regular.ttf") format("truetype"),
+    url("./muller/woff/Muller-Trial-Regular.woff") format("woff"),
+    url("./muller/woff2/Muller-Trial-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Muller";
+  font-weight: 500;
+  font-style: normal;
+  src:
+    url("./muller/ttf/Muller-Trial-Medium.ttf") format("truetype"),
+    url("./muller/woff/Muller-Trial-Medium.woff") format("woff"),
+    url("./muller/woff2/Muller-Trial-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Muller";
+  font-weight: 700;
+  font-style: normal;
+  src:
+    url("./muller/ttf/Muller-Trial-Bold.ttf") format("truetype"),
+    url("./muller/woff/Muller-Trial-Bold.woff") format("woff"),
+    url("./muller/woff2/Muller-Trial-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Muller";
+  font-weight: 800;
+  font-style: normal;
+  src:
+    url("./muller/ttf/Muller-Trial-Black.ttf") format("truetype"),
+    url("./muller/woff/Muller-Trial-Black.woff") format("woff"),
+    url("./muller/woff2/Muller-Trial-Black.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Muller";
+  font-weight: 900;
+  font-style: normal;
+  src:
+    url("./muller/ttf/Muller-Trial-Fat.ttf") format("truetype"),
+    url("./muller/woff/Muller-Trial-Fat.woff") format("woff"),
+    url("./muller/woff2/Muller-Trial-Fat.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "RussoOne";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    url("./russo_one/ttf/RussoOne-Regular.ttf") format("truetype"),
+    url("./russo_one/woff/RussoOne-Regular.woff") format("woff"),
+    url("./russo_one/woff2/RussoOne-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-style: normal;
+  src:
+    url("./montserrat/ttf/Montserrat-Light.ttf") format("truetype"),
+    url("./montserrat/woff/Montserrat-Light.woff") format("woff"),
+    url("./montserrat/woff2/Montserrat-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    url("./montserrat/ttf/Montserrat-Regular.ttf") format("truetype"),
+    url("./montserrat/woff/Montserrat-Regular.woff") format("woff"),
+    url("./montserrat/woff2/Montserrat-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: normal;
+  src:
+    url("./montserrat/ttf/Montserrat-Medium.ttf") format("truetype"),
+    url("./montserrat/woff/Montserrat-Medium.woff") format("woff"),
+    url("./montserrat/woff2/Montserrat-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-style: normal;
+  src:
+    url("./montserrat/ttf/Montserrat-SemiBold.ttf") format("truetype"),
+    url("./montserrat/woff/Montserrat-SemiBold.woff") format("woff"),
+    url("./montserrat/woff2/Montserrat-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-style: normal;
+  src:
+    url("./montserrat/ttf/Montserrat-Bold.ttf") format("truetype"),
+    url("./montserrat/woff/Montserrat-Bold.woff") format("woff"),
+    url("./montserrat/woff2/Montserrat-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-style: normal;
+  src:
+    url("./montserrat/ttf/Montserrat-Black.ttf") format("truetype"),
+    url("./montserrat/woff/Montserrat-Black.woff") format("woff"),
+    url("./montserrat/woff2/Montserrat-Black.woff2") format("woff2");
+}
